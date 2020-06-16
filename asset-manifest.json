@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PokemonBattle/static/css/main.a9a11b92.chunk.css",
+    "main.js": "/PokemonBattle/static/js/main.626cc2e6.chunk.js",
+    "main.js.map": "/PokemonBattle/static/js/main.626cc2e6.chunk.js.map",
+    "runtime-main.js": "/PokemonBattle/static/js/runtime-main.48fd879f.js",
+    "runtime-main.js.map": "/PokemonBattle/static/js/runtime-main.48fd879f.js.map",
+    "static/js/2.58f1ceba.chunk.js": "/PokemonBattle/static/js/2.58f1ceba.chunk.js",
+    "static/js/2.58f1ceba.chunk.js.map": "/PokemonBattle/static/js/2.58f1ceba.chunk.js.map",
+    "index.html": "/PokemonBattle/index.html",
+    "precache-manifest.d7571c821b2bd776665993f399ce6af4.js": "/PokemonBattle/precache-manifest.d7571c821b2bd776665993f399ce6af4.js",
+    "service-worker.js": "/PokemonBattle/service-worker.js",
+    "static/css/main.a9a11b92.chunk.css.map": "/PokemonBattle/static/css/main.a9a11b92.chunk.css.map",
+    "static/js/2.58f1ceba.chunk.js.LICENSE.txt": "/PokemonBattle/static/js/2.58f1ceba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48fd879f.js",
+    "static/js/2.58f1ceba.chunk.js",
+    "static/css/main.a9a11b92.chunk.css",
+    "static/js/main.626cc2e6.chunk.js"
+  ]
+}
